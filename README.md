@@ -14,3 +14,16 @@ KinderLogger is an AI-powered assistant designed to help parents stay informed a
 - **FastAPI Backend:** Handles API requests efficiently with an asynchronous, lightweight framework.
 - **OpenAI Assistant Integration:** Manages conversations using OpenAI’s Assistant API.
 - **Document Handling:** Teacher updates are uploaded, processed, and stored in a vector database for efficient search.
+
+
+## Installation
+
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/yourusername/KinderLogger.git
+
+
+
+``` bash
+pip install -r requirements.txt
+```
