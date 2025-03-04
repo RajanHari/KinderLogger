@@ -16,14 +16,16 @@ KinderLogger is an AI-powered assistant designed to help parents stay informed a
 - **Document Handling:** Teacher updates are uploaded, processed, and stored in a vector database for efficient search.
 
 
+
 ## Installation
+Clone the repository:
 
-1. **Clone the repository**  
-   ```sh
-   git clone https://github.com/yourusername/KinderLogger.git
+```bash
+https://github.com/RajanHari/Multimodal-RAG-for-Text-Image-Table-Extraction.git
+```
 
+and install dependencies:
 
-
-``` bash
+```bash
 pip install -r requirements.txt
 ```
