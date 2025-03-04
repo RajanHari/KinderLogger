@@ -21,7 +21,7 @@ KinderLogger is an AI-powered assistant designed to help parents stay informed a
 Clone the repository:
 
 ```bash
-https://github.com/RajanHari/Multimodal-RAG-for-Text-Image-Table-Extraction.git
+https://github.com/RajanHari/KinderLogger.git
 ```
 
 and install dependencies:
